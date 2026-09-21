@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahad Qaisar</h1>
 
 <h3 align="center">
-Business Analytics Student | Business Automation | Python Learner
-</h3>
-
+Business Analytics Student | Python Learner
 <p align="center">
   <a href="https://github.com/mahad-qaisar">
     <img src="https://komarev.com/ghpvc/?username=mahad-qaisar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -56,30 +54,7 @@ Business Analytics Student | Business Automation | Python Learner
 
 `Python` `Business Analytics` `Data Analysis` `AI` `Automation` `Excel` `Git & GitHub`
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahad-qaisar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahad-qaisar&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahad-qaisar&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahad-qaisar&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
 
 ---
 

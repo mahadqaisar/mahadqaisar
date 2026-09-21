@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Bsiness Development**
+- 👯 I’m looking to collaborate on **Business Development**
 
 - 🤝 I’m looking for help with **Business Analysis**
 
